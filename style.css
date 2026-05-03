@@ -1,3 +1,63 @@
 body{
     background-color: rgb(229, 166, 229);
 }
+
+.container{
+    margin: 120px auto;
+    max-width: 600px;
+
+}
+
+h1{
+    font-weight: 100;
+    font-size: 40px;
+    text-align: center;
+}
+
+form{
+    padding: 30px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.instructions{
+    padding: 16px;
+    border: 1px solid;
+    font-size: 16px;
+    border-radius: 50px;
+    width: 70%;
+    background-color: whitesmoke;
+    color: black;
+}
+
+a{
+  color: blue;
+}
+
+.submit-button{
+    background-color: rgb(152, 75, 224);
+    margin-right: 10px;
+    border-radius: 50px;
+    color: white;
+    border: none;
+    padding: 14px 24px;
+    font-size: 16px;
+}
+
+.poem{
+    font-size: 16px;
+    padding: 20px;
+    background-color: whitesmoke;
+    padding: 20px;
+    border-top: 3px solid purple;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+}
+
+footer{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 20px;
+
+}
